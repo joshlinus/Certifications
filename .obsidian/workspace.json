@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privacy/CIPT/Notes/Chapter 10 - Privacy Governance.md",
+                "file": "Privacy/CIPT/Notes/Chapter 11 - GIT TEST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 10 - Privacy Governance"
+              "title": "Chapter 11 - GIT TEST"
             }
           }
         ]
@@ -142,17 +142,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privacy/CIPT/Notes/Chapter 10 - Privacy Governance.md",
+                "file": "Privacy/CIPT/Notes/Chapter 11 - GIT TEST.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 10 - Privacy Governance"
+              "title": "Outline of Chapter 11 - GIT TEST"
+            }
+          },
+          {
+            "id": "461a0796945f2acc",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "ffb4a90cb35082cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -166,11 +186,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d284e90c91ca3edb",
+  "active": "ca35c6c66cfdef5e",
   "lastOpenFiles": [
+    "Privacy/CIPT/Notes/Chapter 8 - AI and Machine Learning.md",
+    "Privacy/CIPT/Notes/Chapter 11 - GIT TEST.md",
+    "Privacy/CIPT/Notes/Chapter 10 - Privacy Governance.md",
     "Privacy/CIPT/Notes/Chapter 7 - Interference.md",
     "Privacy/CIPT/Notes/Chapter 6 - Tracking and Surveillance.md",
     "Privacy/CIPT/Notes/Chapter 5 - Usable and Useful Privacy Interfaces.md",
@@ -179,9 +203,7 @@
     "Privacy/CIPT/Notes/Chapter 1 - Introduction to Privacy for the IT Professional.md",
     "CIPT/README.md",
     "CIPT",
-    "Privacy/CIPT/Notes/Chapter 10 - Privacy Governance.md",
     "Privacy/CIPT/Notes/Chapter 9 - Cybersecurity and Privacy.md",
-    "Privacy/CIPT/Notes/Chapter 8 - AI and Machine Learning.md",
     "Privacy/CIPT/Notes/Chapter 4 - Identity and Anonymity.md",
     "Pasted image 20251216193737.png",
     "Pasted image 20251214135742.png",
