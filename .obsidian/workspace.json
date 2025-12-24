@@ -11,14 +11,10 @@
             "id": "ca35c6c66cfdef5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Privacy/CIPT/Notes/Chapter 11 - GIT TEST.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chapter 11 - GIT TEST"
+              "title": "New tab"
             }
           }
         ]
@@ -192,8 +188,8 @@
   },
   "active": "ca35c6c66cfdef5e",
   "lastOpenFiles": [
-    "Privacy/CIPT/Notes/Chapter 8 - AI and Machine Learning.md",
     "Privacy/CIPT/Notes/Chapter 11 - GIT TEST.md",
+    "Privacy/CIPT/Notes/Chapter 8 - AI and Machine Learning.md",
     "Privacy/CIPT/Notes/Chapter 10 - Privacy Governance.md",
     "Privacy/CIPT/Notes/Chapter 7 - Interference.md",
     "Privacy/CIPT/Notes/Chapter 6 - Tracking and Surveillance.md",
