@@ -21,6 +21,7 @@ Chapter 1 - Introduction to Privacy for the IT Professional
 - **Intimacy:** Sharing information and trust within a small, private group where secrecy is mutually respected.
 - **Anonymity:** Remaining unidentifiable and free from surveillance while in public spaces.
 - **Reserve:** Choosing to withhold communication or disengage to create a psychological barrier against intrusion, even in a crowd.
+
 These four states describe **how individuals experience and expect privacy**, and how **technology can support or challenge** those expectations.
 
 **Helen Nissenbaum’s Contextual Integrity:**
@@ -34,6 +35,39 @@ D**aniel Solove’s Taxonomy of Privacy:**
 - Includes actions such as **interrogation and surveillance** (forcing disclosure of information).
 - Covers **secondary use, appropriation, and distortion**, such as misusing or altering someone’s image or data.
 - Helps identify **when technology may create privacy-threatening outcomes**.
+  
+ His framework follows the "life cycle" of data: from how it is gathered to how it is used and eventually how it affects the individual.
+
+1. Information Collection
+	This category focuses on the **act of gathering data** about individuals.
+		- **Surveillance:** The watching, listening to, or recording of an individual’s activities. The harm here is often a "chilling effect" where people change their behavior because they know they are being watched.z
+		- **Interrogation:** Pressuring or prying into an individual’s life through questioning or probing for information.
+
+
+ 2. Information Processing
+	This category covers what is done with data **after it has been collected**.
+		- **Aggregation:** Combining various pieces of data about a person. Even if each piece is public, the "whole" reveals a detailed portrait the individual never intended to share.
+		- **Identification:** Linking information to a specific person, often stripping away anonymity or pseudonymity.
+		- **Insecurity:** Failures in data protection (leaks, hacks) that leave personal information vulnerable to third parties.
+		- **Secondary Use:** Using data for a purpose other than the one for which it was originally collected without the person’s consent.
+		- **Exclusion:** Failing to let an individual know about their data or preventing them from accessing and correcting it.
+
+
+3. Information Dissemination
+	This category describes the **sharing or transfer** of data, often in ways that damage a person's reputation or relationships.
+		- **Breach of Confidentiality:** Breaking a promise or legal duty to keep data secret (e.g., a doctor sharing medical records).
+		- **Disclosure:** Revealing true but private information about someone to others.
+		- **Exposure:** Revealing someone’s physical or emotional attributes (e.g., nudity, grief, or bodily functions) that are usually kept private.
+		- **Increased Accessibility:** Making private information easier to find (e.g., taking a physical record from a local office and putting it on the internet).
+		- **Blackmail:** Threatening to disclose private information unless the victim complies with demands.
+		- **Appropriation:** Using a person’s identity (name, likeness, or personality) to serve another's goals (often for profit).
+		- **Distortion:** Spreading false or misleading information about a person (similar to "False Light" in legal terms).
+
+
+ 4. Invasion
+	This category involves **direct interference** with an individual’s private life or decisions.
+		- **Intrusion:** Invading a person’s physical space or solitude (e.g., unwanted phone calls, peeping, or entering a home).
+		- **Decisional Interference:** Government or third-party interference in a person’s private choices regarding their body, family, or health.
 
 **Ryan Calo’s Harm Dimensions:**
 - **Objective harms:** Measurable, observable privacy violations with direct, known consequences.

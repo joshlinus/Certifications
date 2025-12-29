@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privacy/CIPT/Notes/Chapter 09 - Cybersecurity and Privacy.md",
+                "file": "Privacy/CIPT/Notes/Chapter 01 - Introduction to Privacy for the IT Professional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 09 - Cybersecurity and Privacy"
+              "title": "Chapter 01 - Introduction to Privacy for the IT Professional"
             }
           }
         ]
@@ -192,8 +192,10 @@
   },
   "active": "ca35c6c66cfdef5e",
   "lastOpenFiles": [
-    "Privacy/CIPT/Notes/Chapter 08 - AI and Machine Learning.md",
     "Privacy/CIPT/Notes/Chapter 07 - Interference.md",
+    "Privacy/CIPT/Notes/Chapter 08 - AI and Machine Learning.md",
+    "Privacy/CIPT/Notes/Chapter 10 - Privacy Governance.md",
+    "Privacy/CIPT/Notes/Chapter 09 - Cybersecurity and Privacy.md",
     "Privacy/CIPT/Notes/Chapter 06 - Tracking and Surveillance.md",
     "Privacy/CIPT/Notes/Chapter 05 - Usable and Useful Privacy Interfaces.md",
     "Privacy/CIPT/Notes/Chapter 04 - Identity and Anonymity.md",
@@ -201,10 +203,8 @@
     "Privacy/CIPT/Notes/Chapter 02 - Engineering and Privacy.md",
     "Privacy/CIPT/Notes/Chapter 01 - Introduction to Privacy for the IT Professional.md",
     "Privacy/CIPT/Notes/Chapter 11 - GIT TEST.md",
-    "Privacy/CIPT/Notes/Chapter 10 - Privacy Governance.md",
     "CIPT/README.md",
     "CIPT",
-    "Privacy/CIPT/Notes/Chapter 09 - Cybersecurity and Privacy.md",
     "Pasted image 20251216193737.png",
     "Pasted image 20251214135742.png",
     "Pasted image 20251214123633.png",
