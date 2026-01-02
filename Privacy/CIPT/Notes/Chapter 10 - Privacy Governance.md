@@ -32,6 +32,8 @@ Effective privacy engineering relies on a structured and enduring privacy govern
 
 • **Industry Standards:** These establish a common language (e.g., ISO 19944, NIST SP 800-53) and provide transparency, aiding the translation of controls into IT requirements.
 
+![[Pasted image 20251231182010.png]]
+
 ###### 10.2.1 Understanding Risk
 A holistic privacy governance model requires a comprehensive framework to account for privacy risks and their mitigating controls. A risk is a hypothetical scenario that describes an unwanted event and the threats that allow it to occur, potentially leading to privacy harms on personal data.
 

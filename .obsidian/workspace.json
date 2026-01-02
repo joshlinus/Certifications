@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privacy/CIPT/Notes/Chapter 01 - Introduction to Privacy for the IT Professional.md",
+                "file": "Privacy/CIPT/Notes/Chapter 04 - Identity and Anonymity.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 01 - Introduction to Privacy for the IT Professional"
+              "title": "Chapter 04 - Identity and Anonymity"
             }
           }
         ]
@@ -193,15 +193,16 @@
   "active": "ca35c6c66cfdef5e",
   "lastOpenFiles": [
     "Privacy/CIPT/Notes/Chapter 07 - Interference.md",
-    "Privacy/CIPT/Notes/Chapter 08 - AI and Machine Learning.md",
-    "Privacy/CIPT/Notes/Chapter 10 - Privacy Governance.md",
-    "Privacy/CIPT/Notes/Chapter 09 - Cybersecurity and Privacy.md",
+    "Privacy/CIPT/Notes/Chapter 04 - Identity and Anonymity.md",
+    "Privacy/CIPT/Notes/Chapter 01 - Introduction to Privacy for the IT Professional.md",
+    "Privacy/CIPT/Notes/Chapter 02 - Engineering and Privacy.md",
+    "Privacy/CIPT/Notes/Chapter 03 - Encryption and Related Technologies.md",
     "Privacy/CIPT/Notes/Chapter 06 - Tracking and Surveillance.md",
     "Privacy/CIPT/Notes/Chapter 05 - Usable and Useful Privacy Interfaces.md",
-    "Privacy/CIPT/Notes/Chapter 04 - Identity and Anonymity.md",
-    "Privacy/CIPT/Notes/Chapter 03 - Encryption and Related Technologies.md",
-    "Privacy/CIPT/Notes/Chapter 02 - Engineering and Privacy.md",
-    "Privacy/CIPT/Notes/Chapter 01 - Introduction to Privacy for the IT Professional.md",
+    "Privacy/CIPT/Notes/Chapter 10 - Privacy Governance.md",
+    "Privacy/CIPT/Notes/Chapter 09 - Cybersecurity and Privacy.md",
+    "Privacy/CIPT/Notes/Chapter 08 - AI and Machine Learning.md",
+    "Pasted image 20251231182010.png",
     "Privacy/CIPT/Notes/Chapter 11 - GIT TEST.md",
     "CIPT/README.md",
     "CIPT",
@@ -215,7 +216,6 @@
     "Privacy/CIPT/Resources/IAPP_CIPT BOK_FINAL.pdf",
     "Pasted image 20251020213816.png",
     "Pasted image 20251020232250.png",
-    "Pasted image 20251020225002.png",
     "Privacy/CIPT/Material/IAPP_Intro_to_Privacy_for_Technology_Professionals_2E.pdf",
     "Privacy/CIPT/Material/IAPP_Intro_to_Privacy_for_Technology_Professionals_2E.epub",
     "Privacy/CIPT/Notes",

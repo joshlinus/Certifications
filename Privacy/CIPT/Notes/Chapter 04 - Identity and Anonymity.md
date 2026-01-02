@@ -26,7 +26,7 @@ Chapter 4 - Identity and Anonymity
 ---
 Identity is the crucial link between a piece of information and the individual(s) associated with that data. It's important to remember that information systems contain data _about_ people, not the people themselves. Formal definitions are necessary to clearly state how systems should utilize identity.
 
-**Levels of Identity****:**
+**Levels of Identity**
 1. **Identified Individual:** This is the strongest form of identity, where a data item d is linked directly to a known individual i via an identity function I(d).
 2. **Pseudonymous:** The data items are known to be about the same individual, but the individual’s legal identity is not necessarily known. Pseudonymous identity provides a greater level of privacy than an identified individual.
 3. **Anonymous:** This provides the greatest level of privacy.
