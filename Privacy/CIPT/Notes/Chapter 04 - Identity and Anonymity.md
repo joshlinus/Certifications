@@ -173,6 +173,7 @@ Formal definitions have been established to measure and protect privacy in micro
 	• **k-anonymity:** This model requires every record in a micro dataset to be indistinguishable from at least k other people based on its quasi-identifying information. It ensures no record can be individually identified.
 	• **l-diversity:** This model extends k-anonymity by requiring at least l distinct sensitive values within each group of k records to prevent privacy breaches where sensitive information (like occupation) is homogeneous within the indistinguishable group.
 	• **t-closeness:** This model further refines protections beyond the limitations of k-anonymity and l-diversity.
+![[Pasted image 20260102171340.png]]
 
 3. Aggregation-Based Approaches
 Instead of publishing deidentified records (microdata), aggregate statistics derived from the data can be released.
